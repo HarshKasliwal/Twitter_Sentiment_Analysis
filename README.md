@@ -23,4 +23,5 @@ The goal of this project is to perform sentiment analysis on tweets collected fr
 - Extract Dataset: After downloading the dataset, extract its contents from the downloaded ZIP file. You can use any suitable method to extract the files, such as using Python's ZipFile module or any file extraction tool.
 
 By following these instructions, we successfully download and extract a dataset from Kaggle using its API.
- 
+ ![image](https://github.com/HarshKasliwal/Twitter_Sentiment_Analysis/assets/91011623/6f925b59-b628-41fc-abc6-75427bbe31ca)
+
